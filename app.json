@@ -17,16 +17,20 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.zachinquarantine.airbandapp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.zachinquarantine.airbandapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "app",
+    "githubUrl": "https://github.com/Zachinquarantine/airband-app"
   }
 }
