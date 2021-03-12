@@ -2,7 +2,7 @@
 name: Bug Report
 about: Report Bugs to improve the app!
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
