@@ -5,5 +5,8 @@ Any commits help! If you find a typo, commit it! Don't be scared because you've 
 
 
 # To App Users
-If you find a bug, [open an issue using the "Bug" template](https://github.com/Zachinquarantine/airband-app/issues/new).
+If you find a bug, [open an issue using the "Bug" template](https://github.com/Zachinquarantine/airband-app/issues/new)
 To make a feature request, [open an issue using the "Feature Request" template](https://github.com/Zachinquarantine/airband-app/issues/new).
+
+# To Contributors
+We use the [All Contributors](https://allcontributors.org) bot to track project contributors, [here](https://allcontributors.org/docs/en/bot/usage)'s a guide on how to use it.
