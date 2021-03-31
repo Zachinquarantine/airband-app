@@ -6,10 +6,14 @@ import {AppearanceProvider} from 'react-native-appearance';
 
 export default function App() {
   return (
+        <AppearanceProvider>
+      <ThemeProvider>
     <View style={styles.container}>
       <Text>Airband</Text>
       <StatusBar style="auto" />
     </View>
+      </ThemeProvider>
+       </AppearanceProvider>
   );
 }
 
